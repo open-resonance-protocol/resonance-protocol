@@ -1,0 +1,5 @@
+# OS folders
+.DS_Store
+
+# Resonance Protocol Files
+resonance_tuning.local.md
