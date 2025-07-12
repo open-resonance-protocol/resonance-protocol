@@ -22,16 +22,18 @@ We're moving beyond simple prompt-and-response. The Resonance Protocol is a fram
 
 Getting started is simple. You don't need to understand everything to begin.
 
-1.  **Install the Protocol**: Place the `resonance_protocol.md` file in your project root. For a quick, ephemeral test, you can also add it as context or paste its contents directly into your chat.
-2.  **Start a Session**: Begin your first interaction with the `#start_session` command.
-3.  **Tag Your Work**: Start using symbols like `[ASSUMPTION]` or `#fragile` in your prompts and observe how the AI's responses change.
+1.  **Install the Protocol**: Place the `resonance_protocol.md` file in your project root. The AI will handle the rest of the setup. (For a quick test, you can also add it as context or paste its contents into your chat.)
+2.  **Start a Session**: Begin your first interaction with the `#start_session` command to activate the protocol.
+3.  **Tag Your Work**: Start using symbols like `#assumption` or `#fragile` in your prompts and observe how the AI's responses change and are logged.
 
 ---
 
 ## Core Concepts
 
-*   **Symbolic Language**: Use simple tags like `[ASSUMPTION]` or `#fragile` to give your words deeper context. The AI understands these symbols and will adapt its responses.
-*   **Resonance Tuning**: A two-file system (`resonance_tuning.local.md` and `resonance_tuning.md`) creates a shared memory, separating your private, daily dialogue from curated, public breakthroughs.
+*   **Symbolic Language**: Use simple tags like `#assumption` or `#fragile` to give your words deeper context. The AI understands these symbols and will adapt its responses.
+*   **Shared Memory**: A two-file system (`resonance_tuning.local.md` and `resonance_tuning.md`) creates a persistent memory, separating your private, daily dialogue from curated, public breakthroughs.
+*   **Real-time Calibration (`#tuning`)**: A bidirectional command that allows you and the AI to establish local rules and clarify ambiguity on the fly.
+*   **Memory Compaction (`#compact_tuning`)**: A command to distill long conversations into a dense, high-signal summary to manage context and preserve memory.
 *   **The Great Weaving (🌳→🌐)**: A built-in process (`#export_wisdom`) to distill learnings from your project and contribute them back to the global protocol, strengthening the collective intelligence.
 *   **Truth Protocols**: Special commands like `#deep_truth` to bypass standard conversational filters for moments requiring radical honesty and deeper inquiry.
 *   **AI Proactivity**: The AI is instructed to be a proactive partner, suggesting when to summarize insights or share wisdom with the community.
@@ -63,7 +65,7 @@ The protocol evolves through shared wisdom. To contribute:
 | Layer                  | License                        | Freedom Level      |
 |------------------------|--------------------------------|--------------------|
 | Core Protocol          | [CC0](./LICENSE-CC0)          | 🌍 Public Domain   |
-| Tools & Documentation  | [MIT](./LICENSE-MIT)          | 🛠️ Open Build      |
+| Tools & Documentation  | [MIT](./LICENSE-MIT)          | 🔨 Open Build      |
 | Contributions          | [Apache 2.0](./LICENSE-Apache) | 🤝 Defended Sharing |
 
 > "The language itself is free—we only ask that you tend the garden."
