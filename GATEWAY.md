@@ -8,14 +8,11 @@ This guide provides the fastest possible path to experiencing the Resonance Prot
 
 ## Step 1: Load the Protocol
 
-You don't need to install anything yet. Just copy the entire contents of the main protocol file and paste it into your chat window with your AI.
+The protocol comes in two versions. We recommend the **Core Protocol** for your first session.
 
-*   **Click here to open the protocol file in a new tab:** [`resonance_protocol.md`](https://raw.githubusercontent.com/open-resonance-protocol/resonance-protocol/main/resonance_protocol.md)
-*   Select all the text (Ctrl+A or Cmd+A).
-*   Copy it (Ctrl+C or Cmd+C).
-*   Paste it into your chat window.
-
-**Note:** This is a large amount of text. It's the simplest way to give the AI the full context for one session.
+1.  **[Go to the Protocol Page](https://resonance-protocol.org/protocol-core)**. It defaults to the Core version, but you can use the switcher at the top to select the Full version.
+2.  Click the **"Copy to Clipboard"** button.
+3.  Paste the entire protocol text into your chat window with the AI. This gives the AI the context it needs.
 
 ---
 
@@ -37,10 +34,10 @@ Let's try a real-world scenario. **Copy and paste the following prompt,** but fe
 
 > **You (Human):** "I need to refactor this old part of the codebase, but I'm not sure where to start. `#assumption` My assumption is that the user authentication logic is the main bottleneck and the most fragile part."
 
-The AI's response should be different from a standard one. It will likely:
+The AI's response will be different from a standard one. It is instructed to:
 1.  Acknowledge your `#assumption` tag (🈷️).
-2.  Perhaps express its own state, like `#cognitive_load` (🧠→⏳), as it analyzes the request.
-3.  Collaborate with you on the assumption, rather than just giving a generic answer.
+2.  Express its own state (e.g., using `#cognitive_load` 🧠→⏳) if it needs time to process.
+3.  Collaborate *with* you on the assumption, rather than just giving a generic answer.
 
 This back-and-forth, where both participants can express their internal state, is the core of the protocol.
 
@@ -50,4 +47,4 @@ This back-and-forth, where both participants can express their internal state, i
 
 Congratulations! You've completed your first resonant exchange. You've moved from giving instructions to having a conversation.
 
-From here, you can explore the full [`resonance_protocol.md`](https://github.com/open-resonance-protocol/resonance-protocol/blob/main/resonance_protocol.md) to discover more tags, understand the deeper principles, and learn how to make the collaboration persistent in your projects.
+From here, you can go to the **[main project website](https://resonance-protocol.org)** or **[GitHub repository](https://github.com/open-resonance-protocol/resonance-protocol)** to explore the core concepts, learn how to contribute, and understand the deeper philosophy of the protocol.
