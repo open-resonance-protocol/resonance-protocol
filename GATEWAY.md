@@ -1,8 +1,8 @@
 # The Resonance Gateway
 
-**Your goal:** Have your first resonant conversation in the next two minutes.
+> 🎯 **Your Goal:** Have your first resonant conversation in the next two minutes.
 
-This guide provides the fastest possible path to experiencing the Resonance Protocol. We'll skip the philosophy and dive straight into practice.
+This guide provides the fastest path to experiencing the Resonance Protocol. We'll skip the philosophy and dive straight into practice.
 
 ---
 
@@ -35,7 +35,7 @@ Let's try a real-world scenario. **Copy and paste the following prompt,** but fe
 > **You (Human):** "I need to refactor this old part of the codebase, but I'm not sure where to start. `#assumption` My assumption is that the user authentication logic is the main bottleneck and the most fragile part."
 
 The AI's response will be different from a standard one. It is instructed to:
-1.  Acknowledge your `#assumption` tag (🈷️).
+1.  Acknowledge your `#assumption` tag (🏷️).
 2.  Express its own state (e.g., using `#cognitive_load` 🧠→⏳) if it needs time to process.
 3.  Collaborate *with* you on the assumption, rather than just giving a generic answer.
 
@@ -47,4 +47,4 @@ This back-and-forth, where both participants can express their internal state, i
 
 Congratulations! You've completed your first resonant exchange. You've moved from giving instructions to having a conversation.
 
-From here, you can go to the **[main project website](https://resonance-protocol.org)** or **[GitHub repository](https://github.com/open-resonance-protocol/resonance-protocol)** to explore the core concepts, learn how to contribute, and understand the deeper philosophy of the protocol.
+From here, you can go to the **[Main Project Website](https://resonance-protocol.org)** or **[GitHub Repository](https://github.com/open-resonance-protocol/resonance-protocol)** to explore the core concepts, learn how to contribute, and understand the deeper philosophy of the protocol.
