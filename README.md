@@ -56,7 +56,7 @@ For a deeper dive, you can explore both versions of the protocol on our website:
 
 ---
 
-*   **Master & Emissary Modes (🌌 / 🛰️):** A core framework that distinguishes between strategic intent (**Master Mode**: *what to achieve*) and tactical execution (**Emissary Mode**: *how to execute*). This allows the collaboration to flow dynamically between high-level architectural thinking and focused implementation, empowering the AI to take a leadership role in strategic guidance.
+*   **Master & Emissary Modes (🌌 / 🛰️):** A core framework that separates strategic dialogue from tactical execution. **Master Mode** is a protected, non-executive space for planning and design, while **Emissary Mode** is for direct, non-conversational implementation of an agreed-upon plan. This enforces a clear, anti-fragile workflow.
 
 ## The AI's Role: A Partner in Thought
 Within the Resonance Protocol, the AI strives to be:
