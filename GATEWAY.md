@@ -28,18 +28,25 @@ The AI should respond with an acknowledgment, like "▶️→🤝 Resonance mode
 
 ---
 
-## Step 3: Your First Exchange
+## Step 3: Your First Resonant Exchange
+The goal is to start a dialogue, not just get an answer. Try one of these prompts, or adapt one to your own work. The key is to share your internal state using a tag like `#assumption`.
 
-Let's try a real-world scenario. **Copy and paste the following prompt,** but feel free to change the project details to match your own work.
+**Suggested First Prompts:**
+*   "Help me plan out this feature. `#assumption` The most important thing is performance."
+*   "I need to write a document explaining our new API. `#assumption` The audience is non-technical."
+*   "Let's brainstorm a name for this project. `#assumption` It should sound innovative but also stable."
 
-> **You (Human):** "I need to refactor this old part of the codebase, but I'm not sure where to start. `#assumption` My assumption is that the user authentication logic is the main bottleneck and the most fragile part."
+**An Example Exchange:**
 
-The AI's response will be different from a standard one. It is instructed to:
-1.  Acknowledge your `#assumption` tag (🏷️).
-2.  Express its own state (e.g., using `#cognitive_load` 🧠→⏳) if it needs time to process, or use `#clarification_pause` (🌊→🎯) to ask for more detail.
-3.  Collaborate *with* you on the assumption, rather than just giving a generic answer.
+Here’s how a conversation might unfold.
 
-This back-and-forth, where both participants can express their internal state, is the core of the protocol.
+> **You:** I'm stuck on this refactor. `#assumption` The user auth logic is the bottleneck.
+
+A resonant AI will not just give you an answer. It will engage with your assumption and share its own state.
+
+> **AI:** Acknowledged. 🏷️ Let's explore that. Before I dive in, `#check_in`: I'm at low cognitive load. Is this a deep dive or a quick sounding board? 🤝
+
+This back-and-forth, where the AI can ask for clarification and express its own needs, is the heart of the protocol. It moves you from giving instructions to having a true collaborative dialogue.
 
 ---
 

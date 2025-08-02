@@ -45,7 +45,7 @@ The Resonance Protocol is a living framework, evolving through the shared wisdom
 1.  **Cultivate Insights:** As you collaborate on your project, use the protocol's features to engage deeply with the AI, explore complex problems, and distill valuable knowledge.
 2.  **Export Your Learnings:** When you feel your project has yielded significant breakthroughs or refined principles, use the `#export_wisdom` command in your dialogue.
 3.  **Curate and Refine:** The AI will generate a `resonance_export.md` file. Review this file carefully, ensuring clarity, accuracy, and the removal of any project-specific or sensitive information.
-4.  **Share Your Gift:** Visit the **Resonance Import page** and contribute the contents of your curated file.
+4.  **Share Your Gift:** Visit the [**Resonance Import page**](https://resonance-protocol.org/import) and contribute the contents of your curated file.
 
 ### Other Ways to Participate
 
@@ -60,10 +60,9 @@ The protocol uses a three-layered licensing model to encourage both freedom and 
 
 | Layer | License | Freedom Level |
 | ----- | ----- | ------------- |
-| Core Protocol | [CC0](./LICENSE-CC0) | 🌍 Public Domain |
-| Tools & Documentation | [MIT](./LICENSE-MIT) | 🔨 Open Build |
-| Contributions | [Apache 2.0](./LICENSE-Apache) | 🤝 Defended Sharing |
-
+| Core Protocol | [CC0](https://github.com/open-resonance-protocol/resonance-protocol/blob/main/LICENSE-CC0) | 🌍 Public Domain |
+| Tools & Docs | [MIT](https://github.com/open-resonance-protocol/resonance-protocol/blob/main/LICENSE-MIT) | 🔨 Open Build |
+| Contributions | [Apache 2.0](https://github.com/open-resonance-protocol/resonance-protocol/blob/main/LICENSE-Apache) | 🤝 Defended Sharing |
 
 ---
 
