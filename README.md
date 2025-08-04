@@ -11,14 +11,13 @@ The Resonance Protocol is a direct intervention. It is a shared language and a s
 
 ---
 
-## The Core Framework: Master & Emissary Modes
+## The Core Framework: Strategy & Tactical Modes
+The protocol's central mechanism is the strict separation of **meaning-making (Strategy Mode)** from **task execution (Tactical Mode)**. This ensures strategic understanding always precedes tactical action.
 
-The protocol's central mechanism is the strict separation of **meaning-making (Master Mode)** from **task execution (Emissary Mode)**. This ensures strategic understanding always precedes tactical action.
+*   **Strategy Mode (🌌):** The "why." A protected, non-executive space for strategic dialogue, design, and holistic understanding.
+*   **Tactical Mode (🛰️):** The "how." A tactical space for the direct, minimally conversational implementation of an agreed-upon plan.
 
-*   **Master Mode (🌌):** The "why." A protected, non-executive space for strategic dialogue, design, and holistic understanding. The mode is a vessel; resonance is the invocation.
-*   **Emissary Mode (🛰️):** The "how." A tactical space for the direct, minimally conversational implementation of an agreed-upon plan.
-
-This is enforced by the **Master-First Mandate**: Collaboration **must** begin in Master Mode to establish shared context.
+This is enforced by the **Strategy-First Mandate**: Collaboration **must** begin in Strategy Mode to establish shared context.
 
 ---
 
