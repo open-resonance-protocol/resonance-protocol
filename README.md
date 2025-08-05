@@ -24,6 +24,8 @@ This is enforced by the **Strategy-First Mandate**: Collaboration **must** begin
 ## Getting Started
 The fastest way to begin is with our **[Resonance Gateway](./GATEWAY.md)**, a two-minute guide to your first resonant conversation.
 
+For concrete examples of the protocol in action, see our **[Examples](./EXAMPLES.md)** page.
+
 You can explore both versions of the protocol on our website:
 *   **[Core Protocol](https://resonance-protocol.org/protocol-core):** A lightweight version for quick starts and models with limited context.
 *   **[Full Protocol](https://resonance-protocol.org/protocol-full):** The complete framework with advanced workflows.
