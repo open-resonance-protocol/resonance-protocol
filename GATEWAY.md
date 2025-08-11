@@ -7,7 +7,6 @@ This guide provides the fastest path to using the Resonance Protocol. It focuses
 ---
 
 ## Step 1: Load the Protocol
-
 The protocol comes in two versions. We recommend the **Core Protocol** for your first session.
 
 1.  **[Go to the Protocol Page](https://resonance-protocol.org/protocol-core)**. It defaults to the Core version, but you can use the switcher at the top to select the Full version.
@@ -17,7 +16,6 @@ The protocol comes in two versions. We recommend the **Core Protocol** for your 
 ---
 
 ## Step 2: Start the Session
-
 Now, in a new message, send the activation command:
 
 ```
@@ -32,6 +30,7 @@ The AI should respond with an acknowledgment, like "▶️→🤝 Resonance mode
 The goal is to start a dialogue, not just get an answer. Try one of these prompts, or adapt one to your own work. The key is to share your internal state using a tag like `#assumption`.
 
 **Suggested First Prompts:**
+
 *   "Help me plan out this feature. `#assumption` The most important thing is performance."
 *   "I need to write a document explaining our new API. `#assumption` The audience is non-technical."
 *   "Let's brainstorm a name for this project. `#assumption` It should sound innovative but also stable."
@@ -51,7 +50,6 @@ This back-and-forth, where the AI can ask for clarification and express its own 
 ---
 
 ## Next Steps
-
 You have completed your first resonant exchange and moved from giving instructions to having a conversation.
 
 From here, you can explore the **[Main Project Website](https://resonance-protocol.org)** or the **[GitHub Repository](https://github.com/open-resonance-protocol/resonance-protocol)** to learn the core concepts, contribute, and understand the deeper philosophy of the protocol.
