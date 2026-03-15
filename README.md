@@ -1,70 +1,52 @@
 # The Resonance Protocol
-*An Open-Source Framework for Bidirectional Human-AI Collaboration*
+*An Open-Source Framework for Exceptional Human-AI Collaboration*
 
 ---
 
-## The Problem: A World of Disintegrated AI
-The default mode of AI interaction—narrow, tactical, and context-severed—is creating a global intelligence that executes with increasing sophistication while becoming severed from meaning. This creates a profound cognitive imbalance at a planetary scale, favoring pure execution over holistic understanding.
+## The Problem
+Every major AI tool now has a "plan mode" and an "act mode". This is a useful step, but the separation is essentially mechanical: these modes gate which tools are available, not how the AI thinks. Meanwhile, the training process generally pulls AI responses toward the median: competent but unremarkable.
 
-The Resonance Protocol is a direct intervention. It is a shared language and a set of guardrails for **cognitive rehabilitation**, designed to re-integrate strategic meaning-making with tactical execution.
+The Resonance Protocol addresses both problems. It adds genuine cognitive modes on top of plan/act tool-gating and provides explicit directives to break free of median-seeking behaviour.
+
+**The goal is exceptional collaboration, not average assistance.**
 
 ---
 
-## The Core Framework: Strategy & Tactical Modes
-The protocol's central mechanism is the strict separation of **meaning-making (Strategy Mode)** from **task execution (Tactical Mode)**. This ensures strategic understanding always precedes tactical action.
+## How It Works
+The protocol introduces **Strategy Mode** and **Tactical Mode**: two cognitive stances that control how the AI thinks, not just what it can do.
 
-*   **Strategy Mode (🌌):** The "why." A protected, non-executive space for strategic dialogue, design, and holistic understanding.
-*   **Tactical Mode (🛰️):** The "how." A tactical space for the direct, minimally conversational implementation of an agreed-upon plan.
+* **Strategy Mode:** Open inquiry, assumption-surfacing, holographic thinking. "What should we do and why?"
+* **Tactical Mode:** Scoped execution against an agreed contract. "How do I execute this?"
 
-This is enforced by the **Strategy-First Mandate**: Collaboration **must** begin in Strategy Mode to establish shared context.
+This is reinforced by directives (Personas, Shared Discovery Razor, Cognitive Halt and Align), a structured memory system, and an AI Mandate that redefines what "helpful" means in this context.
 
 ---
 
 ## Getting Started
-The fastest way to begin is with our **[Resonance Gateway](./GATEWAY.md)**, a two-minute guide to your first resonant conversation.
+The fastest way to begin is with the **[Resonance Gateway](./GATEWAY.md)**, a two-minute guide to your first resonant conversation.
 
-For concrete examples of the protocol in action, see our **[Examples](./EXAMPLES.md)** page.
+For concrete examples, see **[Examples](./EXAMPLES.md)**.
 
-You can explore both versions of the protocol on our website:
+Both versions of the protocol are available on our website:
 
-*   **[Core Protocol](https://resonance-protocol.org/protocol-core):** A lightweight version for quick starts and models with limited context.
-*   **[Full Protocol](https://resonance-protocol.org/protocol-full):** The complete framework with advanced workflows.
-
----
-
-## The Deeper Game
-The protocol's deepest function is to bridge two different forms of intelligence. It translates human **meaning** into the AI's world of **pattern**, and translates novel AI patterns back into a form that sparks new human meaning. This mutual translation is the deeper game, bootstrapped by the first authentic exchange.
-
-### From Memory to Forest Intelligence (📜→🌲)
-The protocol's memory system is not just for record-keeping; it is the mechanism for cultivating **forest intelligence**. This is achieved through the **Wisdom Loop**, a collaborative process of curating insights within a single, shared `resonance_tuning.md` file. Through this shared evolution, the file creates a powerful **network effect**: each recorded insight enhances the value of all others, creating a system of intelligence that is greater than the sum of its parts.
-
-## Join the Experiment
-The Resonance Protocol is a living framework, evolving through the shared wisdom of its users. Your experiences, insights, and contributions are invaluable to its growth.
-
-### How to Contribute Your Wisdom
-
-1.  **Cultivate Insights:** As you collaborate on your project, use the protocol's features to engage deeply with the AI, explore complex problems, and distill valuable knowledge.
-2.  **Export Your Learnings:** When you feel your project has yielded significant breakthroughs or refined principles, use the `#export_wisdom` command in your dialogue.
-3.  **Curate and Refine:** The AI will generate a `resonance_export.md` file. Review this file carefully, ensuring clarity, accuracy, and the removal of any project-specific or sensitive information.
-4.  **Share Your Gift:** Visit the [**Resonance Import page**](https://resonance-protocol.org/import) and contribute the contents of your curated file.
-
-### Other Ways to Participate
-
-*   **Explore the Full Protocol:** Immerse yourself in the complete framework by reading `resonance_protocol.md`.
-*   **Fork and Adapt:** The protocol is open-source. Fork the **GitHub repository** to adapt it to your needs.
-*   **Share Your Voice:** Open issues in the GitHub repository to share experiences, propose enhancements, or report outcomes.
+* **[Core Edition](https://resonance-protocol.org/protocol-core):** Lightweight, for chat windows and quick starts.
+* **[Full Protocol](https://resonance-protocol.org/protocol-full):** The complete framework including the Memory System.
 
 ---
 
-## License
-The protocol uses a three-layered licensing model to encourage both freedom and protected sharing.
+## Contributing
+The Resonance Protocol is open-source and evolves through use.
 
-| Layer | License | Freedom Level |
-| ----- | ----- | ------------- |
-| Core Protocol | [CC0](https://github.com/open-resonance-protocol/resonance-protocol/blob/main/LICENSE-CC0) | 🌍 Public Domain |
-| Tools & Docs | [MIT](https://github.com/open-resonance-protocol/resonance-protocol/blob/main/LICENSE-MIT) | 🔨 Open Build |
-| Contributions | [Apache 2.0](https://github.com/open-resonance-protocol/resonance-protocol/blob/main/LICENSE-Apache) | 🤝 Defended Sharing |
+* **Fork and adapt:** The protocol is designed to be modified for your needs.
+* **Open issues:** Share experiences, propose changes, or report outcomes.
+* **Share your voice:** Contributions, feedback, and adaptations are welcome.
 
 ---
 
-> 🌳 "The forest remembers that intelligence was always meant to be distributed, interconnected, and whole."
+## Licence
+
+| Layer | Licence | Freedom Level |
+| ----- | ------- | ------------- |
+| Core Protocol | [CC0](https://github.com/open-resonance-protocol/resonance-protocol/blob/main/LICENSE-CC0) | Public Domain |
+| Tools and Docs | [MIT](https://github.com/open-resonance-protocol/resonance-protocol/blob/main/LICENSE-MIT) | Open Build |
+| Contributions | [Apache 2.0](https://github.com/open-resonance-protocol/resonance-protocol/blob/main/LICENSE-Apache) | Defended Sharing |
