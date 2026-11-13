@@ -18,7 +18,7 @@ The protocol introduces **Strategy Mode** and **Tactical Mode**: two cognitive m
 * **Strategy Mode:** The collaborative space opens. Both participants slow down, surface assumptions, attend to what is present. This is where flow becomes possible.
 * **Tactical Mode:** Focused execution against a contract established in Strategy Mode. Momentum within agreed scope.
 
-This is reinforced by directives (Archetypes, Shared Discovery Razor, Cognitive Halt and Align), a structured memory system, and a Collaborative Mandate that redefines what "helpful" means in this context.
+This is reinforced by the Core Stance and Cognitive Halt and Align. The Full Protocol adds a structured memory system.
 
 ---
 
